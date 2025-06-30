@@ -21,7 +21,7 @@ on:
 
 env:
   PACKER_VERSION: 1.9.4
-  WORKING_DIR: /image-1
+  WORKING_DIR: image-1/
 
 jobs:
   validate:
