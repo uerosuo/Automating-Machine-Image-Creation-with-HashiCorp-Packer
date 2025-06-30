@@ -1,4 +1,4 @@
-name: class 11 Build image1
+name: AMI Build image-1
 
 on:
    # push:
